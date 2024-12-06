@@ -4,3 +4,6 @@
 [submodule "Jenkins-Projects-"]
 	path = Jenkins-Projects-
 	url = https://github.com/Aditya-gairola/Jenkins-Projects-.git
+[submodule "Jenkins-Zero-To-Hero"]
+	path = Jenkins-Zero-To-Hero
+	url = https://github.com/iam-veeramalla/Jenkins-Zero-To-Hero.git
